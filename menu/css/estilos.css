@@ -1,0 +1,62 @@
+/* ----- Estilos Generales --------*/
+body{
+    background-color: #B50808;
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    color: #fefbfb;
+}
+
+.navbar{
+    margin-bottom: 10px;
+    background-color: #971010 !important;
+}
+.rowbanner{
+    background-color: aqua;
+}
+.col-1{
+    background-color: bisque;
+    
+}
+.img2{
+    height: 300px;
+    width: 400px;
+    margin-top: -300;
+    margin-left: 10px;
+    justify-content: center;
+}
+.row{
+    justify-content: left;
+    color: #040404;
+}
+
+.table{
+    background-color: #f68f8f;
+}
+#galeria .col-lg-4{
+    margin: 0 !important;
+    padding: 25px;
+    
+}
+#galeria img{
+    width: 300px;
+    height: 200px;
+}
+#galeria img:hover{
+   border: 5px solid #f6cc24;
+}
+.card{
+    background-color: #B50808;
+    margin-bottom: 20px;
+}
+.tabla {
+    --bs-table-bg: transparent;
+}
+
+/* ----Baner------*/
+.banner {
+    background-image: url('../img/cuadritos 4.jpg');
+    padding: 30px;
+}
+.table-menu{
+    --bs-table-bg: #f68f8f:
+}
